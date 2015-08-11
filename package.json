@@ -1,6 +1,6 @@
 {
   "name": "datasets-iris-virginica-petal-width",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Edgar Anderson's data for Iris virginica petal width.",
   "author": {
     "name": "Athan Reines",
